@@ -3,6 +3,7 @@ ITProgressBar
 
 `ITProgressBar` is a high-performance progress bar control for Mac OS X.
 It’s implemented using Core Animation, making it lighning-fast.
+adding something for testing
 
 ![](./demo1.png)
 ![](./demo2.png)
